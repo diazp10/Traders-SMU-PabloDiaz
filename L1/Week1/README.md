@@ -1,8 +1,8 @@
 # Personal Goals Document - Traders@SMU Alpha Program
 
-*Replace this text with your full name*  
-*Replace this text with your SMU email address*  
-*Level 1 (Junior) or Level 2 (Associate)*
+Pablo Diaz 
+diazp@smu.edu 
+Level 1 (Junior)
 
 ## 1. Background in Quantitative Finance
 
